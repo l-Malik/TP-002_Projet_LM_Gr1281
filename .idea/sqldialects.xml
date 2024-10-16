@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="SqlDialectMappings">
+    <file url="file://$PROJECT_DIR$/anomalies_detection.py" dialect="GenericSQL" />
+    <file url="file://$PROJECT_DIR$/database_manager.py" dialect="SQLite" />
+    <file url="file://$PROJECT_DIR$/import_manager.py" dialect="GenericSQL" />
+    <file url="file://$PROJECT_DIR$/logs_window.py" dialect="GenericSQL" />
+  </component>
+</project>
